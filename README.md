@@ -53,7 +53,7 @@ Both the transmitter and receiver share identical RF parameters to ensure succes
 
 ![3D view of pcb, simulated in KiCad](LoRaWAY_3d.png)
 
-![PCB ](<WhatsApp Image 2026-04-21 at 23.10.35.jpeg>)
+![PCB ](<printed.jpeg>)
 
 ---
 
