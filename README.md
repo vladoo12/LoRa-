@@ -57,11 +57,6 @@ Both the transmitter and receiver share identical RF parameters to ensure succes
 
 ---
 
-
-> **Note:** SF12 on 125 kHz BW offers the longest possible range but the lowest data rate. This is well suited for infrequent sensor transmissions over long distances.
-
----
-
 ## Software Overview
 
 The firmware is written in C for the ESP-IDF (FreeRTOS-based) framework. Both the transmitter and receiver control the KG200Z module via AT commands over UART.
